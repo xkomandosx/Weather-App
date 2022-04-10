@@ -1,0 +1,6 @@
+.cardDescItem {
+  font-size: calc(4px + 2vmin);
+  color: #666;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
